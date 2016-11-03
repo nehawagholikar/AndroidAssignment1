@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmployeeRecord</string>
+    <string name="dasid">DasID  :</string>
+    <string name="password">Password  :</string>
+    <string name="login">Login</string>
+    <string name="signup"><a href="activity_second.xml">SignUp</a></string>
+    <string name="confpassword">Confirm Password  :</string>
+    <string name="save">Save</string>
+    <string name="sign">SignUp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="reset">Reset</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="username">User Name</string>
+
+</resources>
